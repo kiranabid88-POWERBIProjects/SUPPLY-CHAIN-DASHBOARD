@@ -4,7 +4,7 @@ A 5-page Power BI dashboard analyzing orders, products, suppliers, logistics, an
 DASHBOARD PAGES
 
 Overview — Total orders (3K), revenue ($67M), profit ($22M), profit margin (32%), on-time delivery (85%). Revenue by month, by category, by warehouse, top 5 products by revenue.
-Overview.png
+Screenshorts/Overview.png
 
 Products — Total products (200), total revenue ($205M), total/average quantity sold. Revenue by category, product performance matrix (revenue, profit, margin, quantity by category), top 5 products by quantity sold, top 5 brands by revenue.
 Products.png
