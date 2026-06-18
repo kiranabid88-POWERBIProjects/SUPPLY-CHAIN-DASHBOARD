@@ -11,7 +11,8 @@ Products — Total products (200), total revenue ($205M), total/average quantity
 Screenshorts/Products.png
 
 Suppliers — 30 suppliers, average lead time (11 days), supplier revenue ($205.32M), supplier profit ($65.97M). Top 10 suppliers by revenue, supplier profit margin trend, average lead time by supplier.
-Suppliers.png
+
+Screenshorts/Suppliers.png
 
 Logistics — Total shipments (3K), on-time delivery (85%), average delivery days (7.99), total shipping cost (856K). Shipping cost trend, shipping cost by carrier, average delivery days by route, transport mode analysis (Air/Ground/Sea).
 Logistics Analysis.png
