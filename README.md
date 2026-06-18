@@ -19,7 +19,8 @@ Logistics — Total shipments (3K), on-time delivery (85%), average delivery day
 Screenshorts/Logistica Analysis.png
 
 Trend & Forecast — Revenue YTD ($70.82M), revenue growth (52.7%), orders YTD (3K), profit margin (32%). Revenue trend with built-in forecast line, monthly orders/profit trends, revenue by category and by country (map visual).
-Trend & Forecasting.png
+
+Screenshorts/Trend & Forecast.png
 
 Each page has its own independent slicers — Year, Month, Category, WarehouseID — and tab-style page navigation buttons
 
