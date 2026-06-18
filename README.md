@@ -7,7 +7,8 @@ Overview — Total orders (3K), revenue ($67M), profit ($22M), profit margin (32
 Screenshorts/Overview.png
 
 Products — Total products (200), total revenue ($205M), total/average quantity sold. Revenue by category, product performance matrix (revenue, profit, margin, quantity by category), top 5 products by quantity sold, top 5 brands by revenue.
-Products.png
+
+Screenshorts/Products.png
 
 Suppliers — 30 suppliers, average lead time (11 days), supplier revenue ($205.32M), supplier profit ($65.97M). Top 10 suppliers by revenue, supplier profit margin trend, average lead time by supplier.
 Suppliers.png
