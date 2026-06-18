@@ -15,7 +15,8 @@ Suppliers — 30 suppliers, average lead time (11 days), supplier revenue ($205.
 Screenshorts/Suppliers.png
 
 Logistics — Total shipments (3K), on-time delivery (85%), average delivery days (7.99), total shipping cost (856K). Shipping cost trend, shipping cost by carrier, average delivery days by route, transport mode analysis (Air/Ground/Sea).
-Logistics Analysis.png
+
+Screenshorts/Logistica Analysis.png
 
 Trend & Forecast — Revenue YTD ($70.82M), revenue growth (52.7%), orders YTD (3K), profit margin (32%). Revenue trend with built-in forecast line, monthly orders/profit trends, revenue by category and by country (map visual).
 Trend & Forecasting.png
